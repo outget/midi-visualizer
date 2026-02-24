@@ -1,0 +1,8 @@
+[package]
+name = "midivisualizer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+midly = "0.5.3"
+nannou = "0.19.0"
